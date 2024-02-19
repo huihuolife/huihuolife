@@ -8,3 +8,4 @@
 - **What You'll Find Here**: It's a showcase of my passion and expertise in AI, as well as a testament to my competition experiences.
 - **Invitation**: Feel free to join the discussion and learn together.
 
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=huihuolife)
