@@ -1,5 +1,5 @@
 # Hello, World!
-- I'm HuiHuo
+- I'm HuiHuo.
 - I'm an enthusiast of AI technology.
 - I thoroughly enjoy participating in competitions.
   
